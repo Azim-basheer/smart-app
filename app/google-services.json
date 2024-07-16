@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "981631313290",
+    "project_id": "lost-and-found-29080",
+    "storage_bucket": "lost-and-found-29080.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981631313290:android:e08d5de3540920276f5473",
+        "android_client_info": {
+          "package_name": "com.smart.lostandfound"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdZcZJmQ7dS12QhllkaAzMxoNV9XFLdIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
